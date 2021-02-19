@@ -18,8 +18,6 @@ body,html{
 .section2 ul,.section3 ul,.section4 ul,.section5 ul,.section6 ul
 {
     list-style: none;
-    margin-left: -29px;
-    margin-right: -29px;
 }
 
 .section2 li a,.section3 li a,.section6 li a
