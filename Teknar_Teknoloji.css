@@ -15,35 +15,23 @@ body,html{
   filter: brightness(95%);
 
 }
-.section2 ul,.section5 ul,.section6 ul
+.section2 ul,.section3 ul,.section4 ul,.section5 ul,.section6 ul
 {
-  list-style: none;
-  margin-left: -29px;
-  margin-right: -29px;
+    list-style: none;
+    margin-left: -29px;
+    margin-right: -29px;
 }
-.section3 ul
-{
-  list-style: none;
-  margin-left: -100px;
-  margin-right: -100px;
-}
+
 .section2 li a,.section3 li a,.section6 li a
 {
-  text-decoration: none;
-}
-.section4 ul
-{
-  list-style: none;
-  margin-left: -200px;
-  margin-right: -200px;
+    text-decoration: none;
 }
 
 .section5 li,.section6 li{
-  display: inline-block;
+    display: inline-block;
 }
-body{
-
-  overflow-x: hidden ;
-}
-
+ body{
+  
+    overflow-x: hidden ;
+  }
 
